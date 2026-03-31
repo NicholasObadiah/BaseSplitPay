@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { useAccount, usePublicClient, useWriteContract } from "wagmi";
 import { base } from "wagmi/chains";

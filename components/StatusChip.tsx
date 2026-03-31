@@ -1,4 +1,4 @@
-﻿type StatusChipTone = "neutral" | "success" | "warn";
+type StatusChipTone = "neutral" | "success" | "warn";
 
 type StatusChipProps = {
   tone?: StatusChipTone;

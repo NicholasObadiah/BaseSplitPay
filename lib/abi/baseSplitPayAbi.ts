@@ -1,4 +1,4 @@
-﻿export const baseSplitPayAbi = [
+export const baseSplitPayAbi = [
   {
     type: "function",
     name: "split",

@@ -1,4 +1,4 @@
-﻿const DASHBOARD_API = "https://base-dashboard-zeta.vercel.app/api/track";
+const DASHBOARD_API = "https://base-dashboard-zeta.vercel.app/api/track";
 
 export async function trackTransaction(
   appId: string,

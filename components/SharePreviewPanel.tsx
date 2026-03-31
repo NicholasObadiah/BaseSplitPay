@@ -1,4 +1,4 @@
-﻿import { StatusChip } from "@/components/StatusChip";
+import { StatusChip } from "@/components/StatusChip";
 
 type SharePreviewPanelProps = {
   totalAmount: string;

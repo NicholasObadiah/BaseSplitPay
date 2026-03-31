@@ -1,4 +1,4 @@
-﻿import { BottomNav } from "@/components/BottomNav";
+import { BottomNav } from "@/components/BottomNav";
 import { RuleList } from "@/components/RuleList";
 import { SplitHeader } from "@/components/SplitHeader";
 import { StatusChip } from "@/components/StatusChip";

@@ -1,4 +1,4 @@
-﻿type RuleListProps = {
+type RuleListProps = {
   rules: string[];
 };
 

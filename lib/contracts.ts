@@ -1,4 +1,4 @@
-﻿import { Attribution } from "ox/erc8021";
+import { Attribution } from "ox/erc8021";
 import type { Address } from "viem";
 import { baseSplitPayAbi } from "@/lib/abi/baseSplitPayAbi";
 
