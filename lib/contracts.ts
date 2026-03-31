@@ -10,7 +10,7 @@ export const baseSplitPayContract = {
   abi: baseSplitPayAbi
 } as const;
 
-// 这里替换为真实 Builder Code
+// TODO: Replace with real Builder Code (这里替换为真实 Builder Code)
 export const DATA_SUFFIX = Attribution.toDataSuffix({
   codes: [BUILDER_CODE_PLACEHOLDER]
 });
