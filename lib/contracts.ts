@@ -3,7 +3,7 @@ import type { Address } from "viem";
 import { baseSplitPayAbi } from "@/lib/abi/baseSplitPayAbi";
 
 export const BASESPLITPAY_CONTRACT_ADDRESS_PLACEHOLDER = "BASESPLITPAY_CONTRACT_ADDRESS_PLACEHOLDER";
-export const BUILDER_CODE_PLACEHOLDER = "BUILDER_CODE_PLACEHOLDER";
+export const BUILDER_CODE_PLACEHOLDER = "bc_bx96uq2l";
 
 export const baseSplitPayContract = {
   address: "0x2265ffade3670ea62D9A30784C167c4485F53740" as Address,
