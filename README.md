@@ -80,3 +80,13 @@ If another dependency manager is used, follow the conventions for that environme
 Start by reviewing the project files and any scripts included in the repository.
 
 Run commands from the project root unless the repository documentation or project structure indicates otherwise.
+
+If the project includes scripts in a configuration file, use the documented script names from that file.
+
+Before running the project, check whether any environment variables, local configuration files, or service dependencies are required.
+
+## Development Workflow
+
+A typical development workflow is:
+
+```bash
