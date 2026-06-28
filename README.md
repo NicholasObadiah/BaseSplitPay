@@ -35,3 +35,11 @@ git clone https://github.com/NicholasObadiah/BaseSplitPay.git
 Move into the project directory:
 
 ```bash
+cd BaseSplitPay
+```
+
+Review the repository contents:
+
+```bash
+ls
+```
