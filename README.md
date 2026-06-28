@@ -107,3 +107,13 @@ Stage and commit your work:
 git add .
 git commit -m "Describe your change"
 ```
+
+Push your branch:
+
+```bash
+git push origin feature/your-change
+```
+
+## Development Notes
+
+When working on the project:
