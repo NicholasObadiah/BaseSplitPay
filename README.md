@@ -25,3 +25,13 @@ BaseSplitPay currently serves as:
 - A place to document development, testing, and contribution workflows as the project grows
 
 ## Getting Started
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/NicholasObadiah/BaseSplitPay.git
+```
+
+Move into the project directory:
+
+```bash
