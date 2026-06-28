@@ -90,3 +90,12 @@ Before running the project, check whether any environment variables, local confi
 A typical development workflow is:
 
 ```bash
+git clone https://github.com/NicholasObadiah/BaseSplitPay.git
+cd BaseSplitPay
+git checkout -b feature/your-change
+```
+
+Make your changes, then review the diff:
+
+```bash
+git diff
