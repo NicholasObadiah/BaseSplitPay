@@ -99,3 +99,11 @@ Make your changes, then review the diff:
 
 ```bash
 git diff
+```
+
+Stage and commit your work:
+
+```bash
+git add .
+git commit -m "Describe your change"
+```
