@@ -53,3 +53,12 @@ dir
 ## Setup
 
 Project-specific setup depends on the files currently included in the repository.
+
+After cloning the project, check for dependency, configuration, or build files such as:
+
+- `package.json`
+- `requirements.txt`
+- `pyproject.toml`
+- `Cargo.toml`
+- `go.mod`
+- `composer.json`
