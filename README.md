@@ -136,3 +136,12 @@ Configuration instructions should be updated as the project becomes more defined
 ## Testing
 
 If tests are included in the repository, run them before submitting changes.
+
+Look for test commands in project configuration files, documentation, or scripts.
+
+Common places to check include:
+
+- `package.json`
+- `Makefile`
+- test directories
+- framework-specific configuration files
