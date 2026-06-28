@@ -117,3 +117,12 @@ git push origin feature/your-change
 ## Development Notes
 
 When working on the project:
+
+- Create a separate branch for each focused change
+- Keep commits clear and descriptive
+- Review your changes before committing
+- Test changes when a test suite or test command is available
+- Update this README when setup, usage, or behavior changes
+- Avoid committing local configuration files or sensitive values
+
+## Configuration
