@@ -126,3 +126,13 @@ When working on the project:
 - Avoid committing local configuration files or sensitive values
 
 ## Configuration
+
+If the project requires environment-specific settings, keep those values outside committed source files.
+
+If an example configuration file is added later, such as `.env.example`, document each required value and how it should be used.
+
+Configuration instructions should be updated as the project becomes more defined.
+
+## Testing
+
+If tests are included in the repository, run them before submitting changes.
