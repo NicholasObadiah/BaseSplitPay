@@ -62,3 +62,13 @@ After cloning the project, check for dependency, configuration, or build files s
 - `Cargo.toml`
 - `go.mod`
 - `composer.json`
+- `.env.example`
+- `README.md`
+
+If a dependency file is present, install dependencies using the appropriate package manager for that technology stack.
+
+For example, if a `package.json` file exists, install Node.js dependencies with:
+
+```bash
+npm install
+```
