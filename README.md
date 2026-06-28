@@ -72,3 +72,11 @@ For example, if a `package.json` file exists, install Node.js dependencies with:
 ```bash
 npm install
 ```
+
+If another dependency manager is used, follow the conventions for that environment.
+
+## Usage
+
+Start by reviewing the project files and any scripts included in the repository.
+
+Run commands from the project root unless the repository documentation or project structure indicates otherwise.
