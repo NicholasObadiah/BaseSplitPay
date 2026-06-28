@@ -16,3 +16,12 @@ The original documentation for this repository is minimal, so this README focuse
 - **Repository URL:** https://github.com/NicholasObadiah/BaseSplitPay.git
 
 ## Features
+
+BaseSplitPay currently serves as:
+
+- A dedicated repository for the BaseSplitPay project
+- A central location for source code and project updates
+- A foundation for future setup instructions and usage examples
+- A place to document development, testing, and contribution workflows as the project grows
+
+## Getting Started
