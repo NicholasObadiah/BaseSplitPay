@@ -43,3 +43,13 @@ Review the repository contents:
 ```bash
 ls
 ```
+
+If you are using Windows PowerShell, you can use:
+
+```powershell
+dir
+```
+
+## Setup
+
+Project-specific setup depends on the files currently included in the repository.
